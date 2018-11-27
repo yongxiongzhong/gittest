@@ -4,3 +4,4 @@ Git is good
 dev
 master
 haha
+master
