@@ -14,3 +14,4 @@ $arr = array(
     'a',
     'b'
 );
+'handlecomplaint' => 'actions/api/rsapi/HandleComplaint.php'
