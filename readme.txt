@@ -10,3 +10,7 @@ master
 0
 0
 0
+$arr = array(
+    'a',
+    'b'
+);
