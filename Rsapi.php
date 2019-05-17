@@ -31,7 +31,6 @@ class Controller_Rsapi extends Ap_Controller_Abstract {
         'commonexpertprice' => 'actions/api/rsapi/CommonExpertPrice.php',
         'commonwriteoff' => 'actions/api/rsapi/CommonWriteOff.php',
         'commonrefund' => 'actions/api/rsapi/CommonRefund.php',
-        // 增值服务第三方回调接口
-        'svcnotify' => 'actions/api/rsapi/SvcNotify.php',
+
     );
 }
