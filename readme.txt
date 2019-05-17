@@ -14,3 +14,8 @@ $arr = array(
     'a',
     'b'
 );
+
+// 增值服务第三方回调接口
+'svcnotify' => 'actions/api/rsapi/SvcNotify.php',
+    );
+}
